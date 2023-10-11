@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.fancy {
+  display: inline-block;
+  background-color: #ff851b; /* Choose a suitable background color */
+  color: #001f3f; /* Text color */
+  padding: 10px 20px; /* Adjust padding for the desired size */
+  margin: 1em;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold; /* Make the text bold */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.fancy:hover {
+  background-color: #61dafb;
+  color: #ff851b;
+}
