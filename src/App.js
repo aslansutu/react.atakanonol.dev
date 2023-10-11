@@ -9,7 +9,7 @@ function App() {
         <p>
           This React site is under construction. <br />
           Please navigate to the blog page for more information. <br />
-          <a href="blog.atakanonol.dev"><button class="fancy">Blog</button></a>
+          <a href="https://blog.atakanonol.dev"><button class="fancy">Blog</button></a>
           {/* Edit <code>src/App.js</code> and save to reload. */}
         </p>
         {/* <a
